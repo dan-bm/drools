@@ -131,9 +131,9 @@ N/A
 
 ### 5.2	Descarga del Proyecto 
 
-| **Proyecto** | **Ruta** | **Tag** | **Revisión** |
-| --- | --- | --- | --- |
-| MOS | [MOS-GIT](http://10.100.236.102/indeval/mos.git) | mos-2.5.8 | <!-- 12bb9ae1bdf9ef63f686b8bb9cc87d8bb8e15bab | -->
+| **Proyecto** | **Ruta** | **Tag** |
+| --- | --- | --- |
+| MOS | [MOS-GIT](http://10.100.236.102/indeval/mos.git) | mos-2.5.8 |
 
 ### 5.3	Compilación
 
